@@ -1,3 +1,3 @@
 # ML_Codes
 
-My codes for some Machine learning algorithms
+My codes for some machine learning algorithms
