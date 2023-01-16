@@ -1,6 +1,6 @@
 # ML_Codes
 
-My codes for some machine learning algorithms
+-> My codes for some machine learning algorithms
 
 <p align="center"><img src="images/pic1.png" width="600" height="400"/></p>
 </br>
